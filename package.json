@@ -1,0 +1,57 @@
+{
+    "name": "wechat-node",
+    "description": "A node.js driver for wechat",
+    "keywords": [
+        "wechat",
+        "wechat-node",
+        "微信",
+        "微信企业号"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "eragoncn",
+        "email": "longpingbo@sohu.com"
+    },
+    "contributors": [
+
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eragoncn/wechat-node.git"
+    },
+    "bugs": {
+        "url": "http://github.com/eragoncn/wechat-node/issues"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "body-parser": "1.5.0",
+        "xml2js": "0.4.4"
+    },
+    "optionalDependencies": {
+        "kerberos": "0.0.3",
+        "readable-stream": "latest"
+    },
+    "config": {
+        "native": false
+    },
+    "main": "./index.js",
+    "homepage": "http://github.com/eragoncn/wechat-node/",
+    "directories": {
+        "lib": "./lib/mongodb"
+    },
+    "engines": {
+        "node": ">=0.10.23"
+    },
+    "scripts": {
+        "test": "   "
+    },
+    "licenses": [
+        {
+            "type": "Apache License, Version 2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
+    "readme": "",
+    "readmeFilename": "Readme.md"
+}
